@@ -119,6 +119,7 @@
     "https://deno.land/x/ts_morph@17.0.1/ts_morph.js": "1bb80284b9e31a4c5c2078cd533fe9b12b4b2d710267055cb655225aa88fb2df",
     "https://esm.sh/*preact-render-to-string@5.2.6": "6d6471448406a5b757245eea4354286be62fe899134def7c9a7d34f12206eb06",
     "https://esm.sh/preact@10.13.1": "ae382301328ab874e2c42bee76e261bb8d094673fe76ca7eb71917636d43d8ad",
+    "https://esm.sh/preact@10.13.1/": "ae382301328ab874e2c42bee76e261bb8d094673fe76ca7eb71917636d43d8ad",
     "https://esm.sh/preact@10.13.1/hooks": "1813f80c6d648f8137a62569e35972b0716f92539f192d6db66d45b7aafea43a",
     "https://esm.sh/preact@10.13.1/jsx-runtime": "0caf2b2eade93af59e89abc31816b6cb2829a9b8a82b958c0ebc1d8bec241e2a",
     "https://esm.sh/stable/preact@10.13.1/deno/hooks.js": "602f2fb6fdc51480875a095516fa2099f91c87ae6fc8ef544fcf48c854cf21a5",

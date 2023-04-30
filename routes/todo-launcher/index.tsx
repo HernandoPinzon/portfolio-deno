@@ -16,6 +16,9 @@ export default function Home() {
           Welcome to Todo Launcher. This app is an app that works with Todo tasks and
           is a launcher
         </p>
+        {/* make a link to the privacy policy */}
+        <a class="text-blue-500 hover:underline"
+        href="/todo-launcher/privacy-policy">Privacy policy</a>
       </div>
     </>
   );
