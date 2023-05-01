@@ -9,6 +9,7 @@ export default function Home() {
         <link rel="stylesheet" href="./css/styles.css" />
       </Head>
       <div class="p-4 mx-auto max-w-screen-md">
+        <img src="./images/yo.jpg" alt="" />
         <p class="my-6">
           Welcome to my portfolio. My nane is Hernando Nuñez Pinzon and i will show you the
           projects that i have work on.
@@ -32,32 +33,3 @@ export default function Home() {
     </>
   );
 }
-
-const styles = {
-  projectTitleStyles: `
-    font-size: 2rem;
-    text-align: center;
-    margin-top: 2rem;
-  `,
-  projectListStyles: `
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  `,
-  projectItemStyles: `
-    margin-top: 1rem;
-    font-size: 1.2rem;
-    text-align: center;
-  `,
-  projectLinkStyles: `
-    color: #007bff;
-    text-decoration: none;
-    font-weight: bold;
-  `,
-  projectLinkHoverStyles: `
-    text-decoration: underline;
-  `,
-};
