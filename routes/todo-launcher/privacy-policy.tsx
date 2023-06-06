@@ -24,7 +24,7 @@ export default function Home() {
           This Application uses Google Analytics to help us analyze how you use the app. It helps us to improve this product.
           Thanks to Google Analytics, we know how long you use the app, what kind of device you're using, where you're from,
           and a little bit more. All this is used to improve the app.
-          <a href="https://support.google.com/analytics/answer/6004245" target="_blank" rel="noopener noreferrer" class="text-blue-500">
+          <a href="https://support.google.com/analytics/answer/6004245" target="_blank" rel="noopener noreferrer" class="text-blue-500 ml-0.5">
             Read more about Google Analytics
           </a>
         </p>
@@ -39,12 +39,12 @@ export default function Home() {
           Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to
           your sites and/or other sites on the Internet.
           Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting
-          <a href="https://adssettings.google.com" target="_blank" rel="noopener noreferrer" class="text-blue-500">
+          <a href="https://adssettings.google.com" target="_blank" rel="noopener noreferrer" class="text-blue-500 ml-0.5">
             Ads Settings
           </a>.
           (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies for interest-based advertising by
           visiting
-          <a href="http://aboutads.info/" target="_blank" rel="noopener noreferrer" class="text-blue-500">
+          <a href="http://aboutads.info/" target="_blank" rel="noopener noreferrer" class="text-blue-500 ml-0.5">
             aboutads.info
           </a>.)
         </p>
