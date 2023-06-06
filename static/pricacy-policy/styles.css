@@ -1,0 +1,21 @@
+.privacy-policy-container {
+  margin: 0 auto;
+  max-width: 600px;
+  padding: 20px;
+  text-align: justify;
+}
+
+h1,
+h2 {
+  text-align: center;
+  color: red;
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
